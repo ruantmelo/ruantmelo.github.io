@@ -126,7 +126,7 @@ export default function Home() {
                 />
             </Head>
 
-            <main className="max-w-screen-xl m-auto p-8 pt-0 md:px-10 relative flex flex-col lg:flex-row">
+            <main className="max-w-screen-xl m-auto p-8 lg:pt-0 md:px-10 relative flex flex-col lg:flex-row">
                 <section className="flex flex-col lg:py-16  lg:justify-between lg:h-screen lg:fixed lg:max-w-md  ">
                     <div className="flex flex-col gap-6">
                         <h1 className="text-zinc-100  text-6xl lg:text-8xl font-bold">
