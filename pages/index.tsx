@@ -189,7 +189,9 @@ export default function Home() {
                             <li>
                                 <Link
                                     className="flex items-center gap-2"
-                                    href={'#'}
+                                    href={
+                                        'https://www.linkedin.com/in/ruantmelo/'
+                                    }
                                     target={'_blank'}
                                 >
                                     <FaLinkedin className="h-4 w-4" />
@@ -200,7 +202,9 @@ export default function Home() {
                             <li>
                                 <Link
                                     className="flex items-center gap-2"
-                                    href={'#'}
+                                    href={
+                                        'https://www.instagram.com/ruantmelo/'
+                                    }
                                     target={'_blank'}
                                 >
                                     <FaInstagram className="h-4 w-4" />
