@@ -23,26 +23,26 @@ const projects: ProjectBoxProps[] = [
         description:
             'Linktree Clone is a responsible web application where users create an account and edit their profiles adding useful links and social networks that they want to share with public.',
         technologies: 'Python, Flask, Bootstrap',
-        href: 'https://github.com/ruan-melo/linktree-clone',
+        href: 'https://github.com/ruantmelo/linktree-clone',
     },
     {
         title: 'Letmeask',
         description:
             'Letmeask is an ideal application for lives and streamings in which it is possible to create question rooms to respond live.',
         technologies: 'React, Firebase',
-        href: 'https://github.com/ruan-melo/letmeask',
+        href: 'https://github.com/ruantmelo/letmeask',
     },
     {
         title: 'ig.News',
         description: 'A news blog with posts and a subscription system.',
         technologies: 'Next.js, SASS, Stripe, Prismic and FaunaDB',
-        href: 'https://github.com/ruan-melo/ignews',
+        href: 'https://github.com/ruantmelo/ignews',
     },
     {
         title: 'Weather APP',
         description: 'A simple weather app that shows the current weather.',
         technologies: 'React, SASS, OpenWeatherMap API',
-        href: 'https://github.com/ruan-melo/weather',
+        href: 'https://github.com/ruantmelo/weather',
     },
 ];
 
@@ -179,7 +179,7 @@ export default function Home() {
                             <li>
                                 <Link
                                     className="flex items-center gap-2"
-                                    href={'https://github.com/ruan-melo'}
+                                    href={'https://github.com/ruantmelo'}
                                     target={'_blank'}
                                 >
                                     <FaGithub className="h-4 w-4" /> GitHub{' '}
